@@ -57,7 +57,7 @@ To create simple php website with database use this command.
 wo site create site.tld --mysql
 ```
 
-NOTE: You can find MySQL database details in `/var/www/site.tld/wo-config.php`.
+NOTE: You can find MySQL database details in `/var/www/site.tld/wp-config.php`.
 
 #### Proxy site
 
